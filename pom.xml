@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.course</groupId>
-	<artifactId>EmailAPI</artifactId>
+	<artifactId>course-app-backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>courses</name>
 	<description>Demo project for Spring Boot - rest api</description>
